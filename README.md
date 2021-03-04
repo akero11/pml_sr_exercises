@@ -1,3 +1,3 @@
-# Python machine learning exercises
+# Python machine learning, notas y ejercicios
 
-The purpose of this repository is to store the results of exercises in [Sebastian Raschka's book, Python Machine Learning](https://sebastianraschka.com/books.html).
+El proposito de este repositorio es guardar las notas y ejercicios del libro de [Sebastian Raschka](https://sebastianraschka.com/), [Python Machine Learning](https://sebastianraschka.com/books.html).
